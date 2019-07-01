@@ -1,6 +1,6 @@
 {
   "name": "@avocode/mozjpeg",
-  "version": "5.0.0-avocode.2",
+  "version": "5.0.0-avocode.3",
   "description": "mozjpeg wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
   "repository": "imagemin/mozjpeg-bin",
