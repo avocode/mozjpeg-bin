@@ -47,7 +47,7 @@
   ],
   "dependencies": {
     "bin-build": "^3.0.0",
-    "bin-wrapper": "^4.1.0",
+    "@avocode/bin-wrapper": "^4.1.0-avocode",
     "logalot": "^2.0.0"
   },
   "devDependencies": {
