@@ -46,8 +46,8 @@
     "optimize"
   ],
   "dependencies": {
-    "bin-build": "^3.0.0",
     "@avocode/bin-wrapper": "^4.1.0-avocode",
+    "bin-build": "^3.0.0",
     "logalot": "^2.0.0"
   },
   "devDependencies": {
